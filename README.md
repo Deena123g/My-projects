@@ -1,7 +1,9 @@
 # Travel India
+
 guidance and overview of tourist places in India which are classified and seggregated helping in choosing places according to one's likes and preferences  
 
 # Project Details
+
 Project Demo URL:https://intravelstorageac.z13.web.core.windows.net/
 
 Demo Video URL:https://youtu.be/hBkWYcBykCQ 
@@ -9,6 +11,7 @@ Demo Video URL:https://youtu.be/hBkWYcBykCQ
 GitHub Repository URL:https://github.com/rajesh-200105/My-projects
 
 Industry: Travel
+
 # Roles and responsibilities
 
 1. Rajesh Nallabothula (project management) 
@@ -101,3 +104,5 @@ Here I am attaching the final working website's screenshot for the reference.
 # Conclusion
 
 This is our website TravelIndia.By developing this travelIndia website we made easy to find what  and when to eplore by having good knowledge over the places.
+
+
